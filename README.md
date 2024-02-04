@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Théo Lemray
 ===================================================================================================================================
 
-Front-end devlopper
+Front-end developer
 -------------------
 
-🎨 Junior web Dev with some graphic design skills ! I started learning web developpement 2 years ago. I already made some full-stack projects (Symfony) but I prefer to focus on Front-end at the moment.
+🎨 Junior Web Dev with some graphic design skills ! I started learning web development 2 years ago. I already made some full-stack projects (Symfony) but I prefer to focus on Front-end at the moment.
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [theo.lemray@gmail.com](mailto:theo.lemray@gmail.com)
