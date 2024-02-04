@@ -30,16 +30,16 @@ Front-end developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/getill"><img src="https://github-readme-stats.vercel.app/api?username=getill&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="getill's GitHub stats" /></a>
+<a href="http://www.github.com/getill"><img src="https://github-readme-stats.vercel.app/api?username=getill&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=ff2400&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&show_icons=true" alt="getill's GitHub stats" /></a>
 
-<a href="http://www.github.com/getill"><img src="https://github-readme-streak-stats.herokuapp.com/?user=getill&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/getill"><img src="https://github-readme-streak-stats.herokuapp.com/?user=getill&stroke=ffffff&background=1c1917&ring=ff2400&fire=ff2400&currStreakNum=ffffff&currStreakLabel=ff2400&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/getill" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getill&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/getill" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getill&langs_count=5&title_color=ff2400&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/getill/Theo-Lemray-Dice-game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=getill&repo=Theo-Lemray-Dice-game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/getill/JS-Platformer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=getill&repo=JS-Platformer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/getill/Theo-Lemray-Dice-game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=getill&repo=Theo-Lemray-Dice-game&title_color=ff2400&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/getill/JS-Platformer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=getill&repo=JS-Platformer&title_color=ff2400&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br />
 
-<div width="100%" align="center"><a href="https://github.com/getill/React-Cinema" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=getill&repo=React-Cinema&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/getill/React-Cinema" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=getill&repo=React-Cinema&title_color=ff2400&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
