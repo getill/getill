@@ -25,20 +25,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <a href="https://www.github.com/getill" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/théo-lemray-96495b176/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### DailyDev Card
 
-<b>My GitHub Stats</b>
+<a href="https://app.daily.dev/ill_us"><img src="https://api.daily.dev/devcards/v2/tfkUikOkvZSInzSmXnPge.png?r=b1v&type=wide" width="652" alt="Théo  Lemray's Dev Card"/></a>
 
-<a href="http://www.github.com/getill"><img src="https://github-readme-stats.vercel.app/api?username=getill&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=ff2400&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&show_icons=true" alt="getill's GitHub stats" /></a>
 
-<a href="http://www.github.com/getill"><img src="https://github-readme-streak-stats.herokuapp.com/?user=getill&stroke=ffffff&background=1c1917&ring=ff2400&fire=ff2400&currStreakNum=ffffff&currStreakLabel=ff2400&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/getill" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getill&langs_count=5&title_color=ff2400&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/getill/Theo-Lemray-Dice-game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=getill&repo=Theo-Lemray-Dice-game&title_color=ff2400&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/getill/JS-Platformer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=getill&repo=JS-Platformer&title_color=ff2400&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br />
-
-<div width="100%" align="center"><a href="https://github.com/getill/React-Cinema" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=getill&repo=React-Cinema&title_color=ff2400&text_color=ffffff&icon_color=ff2400&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
