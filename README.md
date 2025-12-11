@@ -5,11 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 **`Front-end developer`**
 -------------------
 
-🎨 Junior Web Dev with some graphic design skills ! I started learning web development 2 years ago. I already made some full-stack projects (Symfony) but I prefer to focus on Front-end at the moment.
+🎨 Junior Web Dev with some graphic design skills ! I started learning web development 4 years ago. I already made some full-stack projects (Symfony/React/Vue) but I prefer to focus on Front-end at the moment.
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [theo.lemray@gmail.com](mailto:theo.lemray@gmail.com)
-* 🧠  I'm learning PHP
+* 🧠  I'm learning [@ESGI](https://www.esgi.fr/)
 * 🤝  I'm open to collaborating on every front end projects
 * ⚡  I make electronic music too ! [@illusmusic](https://soundcloud.com/illusmusic)
 
